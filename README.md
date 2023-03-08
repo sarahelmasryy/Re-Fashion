@@ -8,6 +8,7 @@ A Website made with React.js Framework.
 ## Features
 
 - Fully Responsive
+- AI suggestion.
 
 
 
