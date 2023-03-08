@@ -1,4 +1,4 @@
-# E-Commerce Website
+# Re-fashion Website
 
 A Website made with React.js Framework.
 
@@ -8,6 +8,7 @@ A Website made with React.js Framework.
 ## Features
 
 - Fully Responsive
+- AI suggestion.
 
 
 
